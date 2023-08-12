@@ -11,7 +11,6 @@ blocks:
     content: |-
       ## Where the human mind meets the digital frontier 
 
-      A cutting-edge platform that delves deep into the intersections of cognitive science, artificial intelligence, technology, learning, and consciousness\
       Cerebratech aims to shed light on the intricate dance between the human mind and the rapidly evolving world of AI and tech
 
       **Dive deep into the world of cognitive AI, explore the nuances of conscious tech, and discover how neuroscience is shaping the future of artificial intelligence**
@@ -19,7 +18,7 @@ blocks:
     buttons:
       - button:
           variant: default
-          content: About Me
+          content: About Dr. Amanda Kavner
           url: http://drkavner.com
   - type: perks
     title: Features

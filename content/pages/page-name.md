@@ -7,7 +7,7 @@ title: About
 permalink: /about/
 blocks:
   - type: hero
-    title: About Henlo.
+    title: About Cerebratech
     content: >-
       ## Wilkommen meine hero!
 
