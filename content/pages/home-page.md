@@ -9,18 +9,18 @@ blocks:
   - type: hero
     title: Cerebratech
     content: |-
-      ## The most advanced starter for Gatsby & Netlify CMS.
+      ## Where the human mind meets the digital frontier 
 
-      Extensible, block based starter for Netlify CMS.\
-      Built with performance in mind, styled with TailwindCSS.
+      A cutting-edge platform that delves deep into the intersections of cognitive science, artificial intelligence, technology, learning, and consciousness\
+      Cerebratech aims to shed light on the intricate dance between the human mind and the rapidly evolving world of AI and tech
 
-      **Think lightweight WordPress.**
+      **Dive deep into the world of cognitive AI, explore the nuances of conscious tech, and discover how neuroscience is shaping the future of artificial intelligence**
     variant: centered
     buttons:
       - button:
           variant: default
-          content: Documentation
-          url: https://github.com/clean-commit/gatsby-starter-henlo
+          content: About Me
+          url: http://drkavner.com
   - type: perks
     title: Features
     columns:
