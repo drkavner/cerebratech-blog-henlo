@@ -13,7 +13,7 @@ blocks:
 
       Cerebratech aims to shed light on the intricate dance between the human mind and the rapidly evolving world of AI and tech
 
-      **Dive deep into the world of cognitive AI, explore the nuances of conscious tech, and discover how neuroscience is shaping the future of artificial intelligence**
+      **Dive deep into the world of cognitive AI, explore the nuances of conscious tech, and discover how neuroscience is shaping the future of artificial intelligence**/ /
     variant: centered
     buttons:
       - button:
